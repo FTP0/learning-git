@@ -1,4 +1,4 @@
-# GI
+# Git and GitHub course
 
 ## This repo was used to learn git from amigoscode
 
